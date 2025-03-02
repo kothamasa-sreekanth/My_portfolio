@@ -1,5 +1,6 @@
 import Qtify from "../../assets/qtify.png";
 import QKart from "../../assets/Qkart_img.png";
+import Medify from "../../assets/medify.png";
 // import travelWorld from "../../assets/travel world.png";
 // import airbnbClone from "../../assets/airbnb.png";
 // import crypticC from "../../assets/cryptic.png";
@@ -22,6 +23,14 @@ const projectData = [
     link: "https://qtify-project-virid.vercel.app/",
     // gitLink: "https://github.com/krh1102002/DBATU-Forum-Innovation",
   },
+  {
+    id: 2,
+    title: "Medify- online medical appointment booking",
+    image:Medify,
+    description:
+      "MEDIFY is a React-based web application that allows users to find medical centers in specific states and cities across the USA and book appointments. The platform provides an intuitive interface for searching medical facilities, viewing available time slots, and managing bookings.",
+    link: "https://medify-tau-one.vercel.app/",
+  }
 
 ];
 
