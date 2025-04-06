@@ -1,7 +1,7 @@
 import React from "react";
 import "./scrollUp.css";
 import downloadgif from "../../assets/Download.gif";
-import resume from "../../assets/sreekanth_kothamasa.pdf.pdf";
+import resume from "../../assets/sreekanth-kothamasa.pdf";
 
 const ScrollUp = () => {
   return (
