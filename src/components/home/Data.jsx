@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../assets/sreekanth-kothamasa.pdf";
+import resume from "../../assets/sreekanth_kothamasa.pdf (6).pdf";
 import eyeGIF from "../../assets/Eye.gif";
 const Data = () => {
   return (
